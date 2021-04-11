@@ -303,7 +303,7 @@ a:hover {
 
 .navbar-brand img {
     max-height: 200px;
-    margin: 0 5px 0 0;
+    margin: 0 10px 0 0;
     display: inline;
 }
 
@@ -1039,4 +1039,24 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/* ajout optimisation */
+@font-face {
+    font-family: "Kingthings";
+    src: url("fonts/Kingthings.ttf");
+           
+   }
+.navbar-brand{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo{
+    height: 40px;
+}
+.title-logo{
+    font-size: 25px;
+    font-family: "Kingthings";
+    margin:inherit;
 }
