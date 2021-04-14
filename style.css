@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black;
 }
 
 .container {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.6rem;
 }
 
 .tight-width-whitespace {
@@ -1059,4 +1059,16 @@ h4 {
     font-size: 25px;
     font-family: "Kingthings";
     margin:inherit;
+}
+/* blockquote p {
+    padding: 15px;
+    background: #eee;
+    border-radius: 5px;
+} */
+blockquote p::before {
+    content: '\201C';
+}
+
+blockquote p::after {
+    content: '\201D';
 }
