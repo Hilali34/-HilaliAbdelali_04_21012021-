@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://hilali34.github.io/HilaliAbdelali_04_21012021//sitemap.xml
