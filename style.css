@@ -113,13 +113,15 @@
    }
    @font-face {
     font-family:'Glyphicons Halflings';
+    font-display: swap;
     src:url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/glyphicons-halflings-regular.eot);
     src:url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'),
     url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/glyphicons-halflings-regular.woff2) format('woff2'),
     url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/glyphicons-halflings-regular.woff) format('woff'),
     url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/glyphicons-halflings-regular.ttf) format('truetype'),
     url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')
-   }
+    
+  }
    * {
     -webkit-box-sizing:border-box;
     -moz-box-sizing:border-box;
@@ -1713,6 +1715,7 @@
    }
    @font-face {
     font-family:Kingthings;
+    font-display: swap;
     src:url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/Kingthings.ttf)
    }
    .navbar-brand {
@@ -1770,6 +1773,7 @@
     *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
     */@font-face {
     font-family:FontAwesome;
+    font-display: swap;
     src:url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/fontawesome-webfont.eot?v=4.7.0);
     src:url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0) format('embedded-opentype'),
     url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/fontawesome-webfont.woff2?v=4.7.0) format('woff2'),
@@ -1900,6 +1904,7 @@
    }
    @font-face {
     font-family:et-line;
+    font-display: swap;
     src:url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/et-line.eot);
     src:url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/et-line.eot?#iefix) format('embedded-opentype'),
     url(https://hilali34.github.io/HilaliAbdelali_04_21012021/fonts/et-line.woff) format('woff'),
