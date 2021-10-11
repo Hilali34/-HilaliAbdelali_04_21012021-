@@ -23,44 +23,6 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 3.  **Comparaison des résultats.** La vitesse de chargement des pages du site a un impact sur notre classement dans les résultats de recherche. Dans tes différentes recommandations, j’aimerais que tu prennes des mesures pour accélérer la vitesse de chargement, et que tu me démontres que cela fonctionne, grâce à des captures d’écran comparatives entre la version du site actuelle et celle que tu auras optimisée, fourni dans un rapport d’optimisation. Ce rapport devra inclure les comparaisons pour les 10 recommandations.
 
 
-### La maquette de la version Mobile:
-
-<br/>
-
-- Page d'aceuil:
- 
-<br/>
-
-<img style="align:center" src="https://github.com/Hilali34/HilaliAbdelali_03_21012021/blob/main/maquettes/Accueil.png">
-
-
-<br/>
-
-- Page Menu :
- 
-<br/>
-
-
-<img style="align:center" src="https://github.com/Hilali34/HilaliAbdelali_03_21012021/blob/main/maquettes/Menu%20-%20La%20note%20enchantée.png">
-
-
-## Les animations: 
-
-<br/>
-
-- Apprition des plats:
- 
-<br/>
-
-![animation1](https://github.com/Hilali34/HilaliAbdelali_03_21012021/blob/main/maquettes/Animations/Animation%20-%20Page%20Menu%20-%20Apparition%20progressive.gif)
-
-<br/>
-
-- Selection de plat:
-
-<br/> 
-
-![animation2](https://github.com/Hilali34/HilaliAbdelali_03_21012021/blob/45536d40bbd281cfafbcc91468e5a005cf9230e1/maquettes/Animations/Animation%20-Se%CC%81lection%20d_un%20plat.gif)
 
 ## Technoligies utilisées : 
 
