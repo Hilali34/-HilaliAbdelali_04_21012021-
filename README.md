@@ -32,7 +32,6 @@ Vous travaillez pour La chouette agence, une grande agence de web design basée 
 
 ## Resultat: 
 
-Lien Page GitHub: 
+DEMO: 
 
-https://hilali34.github.io/HilaliAbdelali_03_21012021/public/
-
+https://lachouette-agency-hilali.netlify.app
